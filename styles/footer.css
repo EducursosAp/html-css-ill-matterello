@@ -1,0 +1,55 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-weight: 500;
+  margin-top: 3rem;
+  gap: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.links a {
+  text-decoration: none;
+  color: black;
+  font-family: Montserrat;
+}
+
+.links ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.copyright {
+  font-family: Montserrat;
+}
+
+.copyright p {
+  padding: 0.25rem 0;
+}
+
+.footer-circle {
+  width: 120%;
+  height: 120%;
+  position: absolute;
+  bottom: -120px;
+  z-index: -2;
+  background-color: var(--primary-color);
+  border-radius: 50% 50% 0 0;
+}
+
+.footer-floating {
+  position: absolute;
+  width: 140px;
+  height: auto;
+  bottom: 0;
+  left: 0;
+  transform: translate(-30%, 30%);
+  z-index: -1;
+}
+
+.brand-copy {
+  font-weight: bold;
+}
