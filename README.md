@@ -28,8 +28,8 @@ git clone https://github.com/manriqueluis98/il-matterello
 
 Contributors names and contact info
 
-ex. Luis Manrique
-ex. [@manriqueluis98](https://www.linkedin.com/in/luis-manrique-julca-1a0a02175)
+Luis Manrique
+[@manriqueluis98](https://www.linkedin.com/in/luis-manrique-julca-1a0a02175)
 
 ## Version History
 
