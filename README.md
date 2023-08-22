@@ -23,7 +23,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][[https://www.linkedin.com/in/luis-manrique-julca-1a0a02175/]]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/luis-manrique-julca-1a0a02175/]]
 
 
 
