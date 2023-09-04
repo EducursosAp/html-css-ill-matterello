@@ -21,7 +21,7 @@ Website designed and developed for education purposes to teach and overview some
 * How to clone the code
 * Step-by-step bullets
 ```
-git clone https://github.com/manriqueluis98/il-matterello
+git clone https://github.com/EducursosAp/html-css-ill-matterello.git
 ```
 
 ## Authors
